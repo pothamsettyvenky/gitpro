@@ -69,8 +69,7 @@ url of markdownguide is markdownguide.org
  
  
  
- 
- 
+
  
  
  
