@@ -40,11 +40,25 @@ url of markdownguide is markdownguide.org
  - tags
     - p tag
         - paragraph
+            - we can write paragraph
     - image tag
     - list tag
  - headings
- 
- 
+ ## coding
+ ~~~
+ <html>
+ <head>
+ </head>
+ <body>
+ <p>joining the master course in the european company</p>
+ <nav>
+ <li>home</li>
+ <li>settings</li>
+ <li>portfolio</li>
+ </nav>
+ <h1>welcome to our website</h1>
+ </body>
+ </html>
  
  
  
