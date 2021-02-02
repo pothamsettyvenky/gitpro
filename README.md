@@ -7,6 +7,7 @@ about the mardown file
 ##### heading 5(last heading)
 ## bold and italic formatas
 **it is the font style bold**
+
 __it is the font style bold__
 *it is the font style italic*
 _it is the font style italic_
