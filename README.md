@@ -61,7 +61,7 @@ url of markdownguide is markdownguide.org
  </html>
  ```
  ## inserting the URL 
- [google](www.google.com)
+ [git download](https://git-scm.com/downloads)
  
  
  
