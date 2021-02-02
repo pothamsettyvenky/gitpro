@@ -68,6 +68,7 @@ url of markdownguide is markdownguide.org
  [email](https://mail.google.com/mail/u/0/?zx=8arj40ologb0#)
  
  ## inserting the images
+ ![Tech-Memer](https://github.com/pothamsettyvenky/gitpro/blob/master/tech.jpg)
  ## checkout to the main branch 
  - git checkout main
  
