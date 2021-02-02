@@ -1,2 +1,3 @@
 # gitpro
-mark down syntax .md file
+about the mardown file
+- mark down syntax .md file
