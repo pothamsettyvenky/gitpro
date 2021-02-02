@@ -72,7 +72,7 @@ url of markdownguide is markdownguide.org
  ## checkout to the main branch 
  - git checkout main
  ## inserting the vedio
- [![install pythn](https://img.youtube.com/vi/GfZflelZYRQ&t=9s/0.jpg)](https://www.youtube.com/watch?v=GfZflelZYRQ&t=9s)
+ [![install python](https://img.youtube.com/vi/GfZflelZYRQ&t/0.jpg)](https://www.youtube.com/watch?v=GfZflelZYRQ&t)
  
  
  
