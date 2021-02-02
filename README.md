@@ -60,6 +60,8 @@ url of markdownguide is markdownguide.org
  </body>
  </html>
  ```
+ ## inserting the URL 
+ [google](www.google.com)
  
  
  
