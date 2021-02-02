@@ -22,8 +22,8 @@ url of markdownguide is markdownguide.org
 1. i am very good boy
 2. i am very talented
 3. i am lazy to study
-  1. we are here to study 
-  2. kits collage is west
+    1. we are here to study 
+    2. kits collage is west
   3. we are here to learn git hub
  4. in this collage canteen is so good
  5. and the ground is very good
