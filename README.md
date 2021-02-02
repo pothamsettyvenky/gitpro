@@ -36,12 +36,12 @@ url of markdownguide is markdownguide.org
     4. and i am very mad to eat that food
  5. and the ground is very good
  ## unordered list
- _ html
- _ tags
-    _ p tag
-    _ image tag
-    _ list tag
- _ headings
+ - html
+ - tags
+    - p tag
+    - image tag
+    - list tag
+ - headings
  
  
  
