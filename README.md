@@ -45,7 +45,7 @@ url of markdownguide is markdownguide.org
     - list tag
  - headings
  ## coding
- ~~~
+ ```html
  <html>
  <head>
  </head>
@@ -59,7 +59,7 @@ url of markdownguide is markdownguide.org
  <h1>welcome to our website</h1>
  </body>
  </html>
- 
+ ```
  
  
  
