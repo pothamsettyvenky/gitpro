@@ -71,6 +71,8 @@ url of markdownguide is markdownguide.org
  ![Tech-Memer](https://github.com/pothamsettyvenky/gitpro/blob/master/tech.jpg)
  ## checkout to the main branch 
  - git checkout main
+ ## inserting the vedio
+ [![vedio]](https://img.youtube.com/vi/GfZflelZYRQ&t=9s/0.jpg)(https://www.youtube.com/watch?v=GfZflelZYRQ&t=9s)
  
  
  
