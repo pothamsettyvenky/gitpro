@@ -24,7 +24,7 @@ url of markdownguide is markdownguide.org
 3. i am lazy to study
     1. we are here to study 
     2. kits collage is west
-  3. we are here to learn git hub
+ 3. we are here to learn git hub
  4. in this collage canteen is so good
         1.in canteen egg puff is very good 
         2.he sell lots of food 
